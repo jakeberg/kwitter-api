@@ -1,9 +1,12 @@
 {
-  "development": {
-    "username": null,
-    "password": null,
-    "database": "gabble",
-    "host": "127.0.0.1",
+  "production": {
+    "username": "mqwvrzkoimziry
+",
+    "password": "14d496bd64fdf959bc86078fe1e513c5d4727bc091d8e0ff83ff77f01335290b
+",
+    "database": "d3tqqh0v591oqu",
+    "host": "ec2-23-23-248-247.compute-1.amazonaws.com
+",
     "dialect": "postgres"
   }
 }
